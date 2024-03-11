@@ -1,0 +1,168 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 13:08:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: cannot access local variable 'filename' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 14:44:10] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 14:46:02] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 14:46:09] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:08:02] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:12:43] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:14:36] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:14:49] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:17:16] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:20:41] "POST /upload HTTP/1.1" 200 -
+ERROR:root:Error in extract_audio: MoviePy error: the file data/upload/genAI_20240309152041.mp4 could not be found!
+Please check that you entered the correct path.
+ERROR:controller:Error while extracting audio: MoviePy error: the file data/upload/genAI_20240309152041.mp4 could not be found!
+Please check that you entered the correct path.
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:21:37] "[35m[1mPOST /extract_audio HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: cannot access local variable 'filename' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 15:23:50] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: cannot access local variable 'filename' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 16:21:01] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+ERROR:controller:Error in upload_file: name 'filename' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 16:29:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 16:31:12] "POST /upload HTTP/1.1" 200 -
+ERROR:controller:Error while extracting audio: name 'processing_progress' is not defined
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 16:32:09] "[35m[1mPOST /extract_audio HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 16:59:35] "POST /extract_audio HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2024 17:00:55] "[35m[1mGET /progress HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\harsh\\Downloads\\Summarizer\\app\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 587-183-037
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 16:37:00] "POST /upload HTTP/1.1" 200 -
